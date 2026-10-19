@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/peterjc/flake8-black/commit/6c93de987ee81d1a53430ad71c1fd75ba0fd1bda",
       "git:hexsha": "6c93de987ee81d1a53430ad71c1fd75ba0fd1bda",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-19T11:16:42.462442+00:00"
     },
     {
       "@id": "https://repolex.ai/r/peterjc/flake8-black/commit/972fc98a14d3d18c018dc4957b28f34adaedf8e2",
