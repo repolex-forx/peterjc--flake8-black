@@ -1,0 +1,11 @@
+{
+  "org": "peterjc",
+  "repo": "flake8-black",
+  "versions": [
+    {
+      "commit": "6c93de987ee81d1a53430ad71c1fd75ba0fd1bda",
+      "tag": "",
+      "parsed_at": "2026-10-19T11:16:42.463006+00:00"
+    }
+  ]
+}
